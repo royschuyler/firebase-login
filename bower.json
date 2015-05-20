@@ -1,0 +1,21 @@
+{
+  "name": "firebase-login",
+  "version": "0.0.0",
+  "homepage": "https://github.com/royschuyler/firebase-login",
+  "authors": [
+    "royschuyler <royschuyler@yahoo.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.4",
+    "foundation": "~5.5.2",
+    "lodash": "~3.9.0"
+  }
+}
